@@ -1,0 +1,1 @@
+EliteSocialsAPI is a Dotnet Core API to provide functionality to the EliteSocials consume application.
